@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate in Ho Chi Minh City, Vietnam
 - 📫 Reach me at 
   fb.com/merlinnn.98
-  linkedin.com/in/merlin8
+  or linkedin.com/in/merlin8
 
 <!---
 dangquang9a/dangquang9a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
