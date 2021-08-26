@@ -2,7 +2,7 @@
 - 👀 I’m interested in data visualization, microservices, docker and API integration
 - 🌱 I’m currently learning Golang and Docker
 - 💞️ I’m looking to collaborate in Ho Chi Minh City, Vietnam
-- 📫 How to reach me 
+- 📫 Reach me at 
   fb.com/merlinnn.98
   linkedin.com/in/merlin8
 
